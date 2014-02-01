@@ -14,7 +14,7 @@ Plugins
 -------
 
 * [ag-vim](https://github.com/rking/ag.vim): excellent integration of ag
-* [auto-pairs](https://github.com/jiangmiao/auto-pairs]auto-pairs): inserts and deletes beackets, parens and quotes in pairs
+* [auto-pairs](https://github.com/jiangmiao/auto-pairs]auto-pairs): inserts and deletes brackets, parens and quotes in pairs
 * [gundo](http://sjl.bitbucket.org/gundo.vim/): Graph your Vim undo tree in style
 * [nerdtree](https://github.com/scrooloose/nerdtree): Easily explore your file system
 * [airline](https://github.com/bling/vim-airline): Lean & mean status/tabline for Vim
