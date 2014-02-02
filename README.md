@@ -2,8 +2,8 @@ Vim Settings
 ============
 
 This is just to share my vim settings and bundles I'm currently using
-on my jurney of a progressing vimification.
-The stack of vim plugins is mainly targeted at web development with Coffescript, Jade, Stylus and using Brunch as a build system.
+on my journey of a progressing vimification.
+The stack of vim plugins is mainly targeted at web development with Angularjs, Coffescript, Jade, Stylus and using Brunch as a build system.
 
 .vimrc
 ------
