@@ -24,3 +24,4 @@ Plugins
 * [vim-stylus](https://github.com/wavded/vim-stylus): Syntax highlighting for Stylus
 * [vim-fugitive](https://github.com/tpope/vim-fugitive): git integration into Vim
 * [YouCompleteMe](https://github.com/Valloric/YouCompleteMe): code completion engine for Vim
+* [vim-multiple-cursors](https://github.com/terryma/vim-multiple-cursors.git): Great implementation of Sublime Text multiple selections for Vim
